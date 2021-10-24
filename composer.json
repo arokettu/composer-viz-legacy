@@ -1,0 +1,17 @@
+{
+    "name": "sandfoxme/composer-viz",
+    "type": "metapackage",
+    "description": "Generate a GraphViz representation of the dependency graph (legacy)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Smirnov",
+            "email": "sandfox@sandfox.me",
+            "homepage": "https://sandfox.me/",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "arokettu/composer-viz": "self.version"
+    }
+}
