@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "arokettu/composer-viz": "self.version"
+        "arokettu/composer-viz": "^2.2.4"
     }
 }
